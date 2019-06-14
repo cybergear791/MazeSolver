@@ -2,7 +2,9 @@
 Nick Flouty
 
 # Objective
-Navigate to the exit of the maze using backtracking.
+Navigate to the desired coordinates of a maze using backtracking.
 
 # Output
-![](/Capture.png)
+![](/Capture.PNG)
+
+![](/output.bmp "Visualization of output")
